@@ -1,20 +1,20 @@
-# Prismic & Nuxt.js Example Blog
+# test-prismic
 
-> [Nuxt.js](https://nuxtjs.org) example blog project with content managed in [Prismic](https://prismic.io)
+## Build Setup
 
-## Check out the dedicated article to get this project up and running
-> [Prismic project guide](https://user-guides.prismic.io/examples/nuxt-js-samples/create-a-sample-blog-with-prismic-and-nuxt)
+```bash
+# install dependencies
+$ npm install
 
-## Learn more about using Prismic with Nuxt.js
+# serve with hot reload at localhost:3000
+$ npm run dev
 
-> [Prismic Nuxt.js Documentation](https://prismic.io/docs/technologies/nuxtjs)
+# build for production and launch server
+$ npm run build
+$ npm run start
 
-## License
+# generate static project
+$ npm run generate
+```
 
-This software is licensed under the Apache 2 license, quoted below.
-
-Copyright 2021 [Prismic](http://prismic.io/).
-
-Licensed under the Apache License, Version 2.0 (the "License"); you may not use this project except in compliance with the License. You may obtain a copy of the License at http://www.apache.org/licenses/LICENSE-2.0.
-
-Unless required by applicable law or agreed to in writing, software distributed under the License is distributed on an "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. See the License for the specific language governing permissions and limitations under the License.
+For detailed explanation on how things work, check out [Nuxt.js docs](https://nuxtjs.org).

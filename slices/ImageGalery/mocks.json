@@ -1,0 +1,90 @@
+[
+  {
+    "id": "default-slice",
+    "name": "Default slice",
+    "docURL": "...",
+    "version": "sktwi1xtmkfgx8626",
+    "description": "ImageGalery",
+    "primary": {
+      "galleryTitle": [
+        {
+          "type": "heading2",
+          "text": "Syndicate scalable web-readiness",
+          "spans": []
+        }
+      ]
+    },
+    "items": [
+      {
+        "image": {
+          "dimensions": {
+            "width": 900,
+            "height": 500
+          },
+          "alt": "Placeholder image",
+          "copyright": null,
+          "url": "https://images.unsplash.com/photo-1591012911207-0dbac31f37da?w=900&h=500&fit=crop"
+        },
+        "imageDescription": [
+          {
+            "type": "paragraph",
+            "text": "Esse sint duis do sint nisi deserunt enim in sit ad aute dolor ut. Exercitation veniam laboris commodo id elit est nulla elit ut exercitation consequat eu ea. Sunt excepteur est laborum.",
+            "spans": []
+          }
+        ],
+        "link": {
+          "link_type": "Web",
+          "url": "http://twitter.com"
+        },
+        "linkLabel": "brand world-class e-business"
+      },
+      {
+        "image": {
+          "dimensions": {
+            "width": 900,
+            "height": 500
+          },
+          "alt": "Placeholder image",
+          "copyright": null,
+          "url": "https://images.unsplash.com/photo-1587840171670-8b850147754e?w=900&h=500&fit=crop"
+        },
+        "imageDescription": [
+          {
+            "type": "paragraph",
+            "text": "Nulla dolor sint irure aute veniam fugiat nostrud mollit velit Lorem dolore culpa minim aliqua culpa. Incididunt laboris veniam in officia nisi magna dolor consectetur occaecat veniam deserunt commodo. Laboris proident enim labore reprehenderit aliqua dolor nulla irure irure duis ipsum irure labore.",
+            "spans": []
+          }
+        ],
+        "link": {
+          "link_type": "Web",
+          "url": "https://slicemachine.dev"
+        },
+        "linkLabel": "benchmark intuitive models"
+      },
+      {
+        "image": {
+          "dimensions": {
+            "width": 900,
+            "height": 500
+          },
+          "alt": "Placeholder image",
+          "copyright": null,
+          "url": "https://images.unsplash.com/photo-1498050108023-c5249f4df085?w=900&h=500&fit=crop"
+        },
+        "imageDescription": [
+          {
+            "type": "paragraph",
+            "text": "Ipsum duis irure ullamco laborum. Culpa ut dolor qui mollit aliqua pariatur mollit ea aute deserunt.",
+            "spans": []
+          }
+        ],
+        "link": {
+          "link_type": "Web",
+          "url": "http://twitter.com"
+        },
+        "linkLabel": "innovate open-source paradigms"
+      }
+    ],
+    "slice_type": "image_galery"
+  }
+]

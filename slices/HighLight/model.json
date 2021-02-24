@@ -1,0 +1,64 @@
+{
+  "id": "high_light",
+  "type": "SharedSlice",
+  "name": "HighLight",
+  "description": "HighLight",
+  "variations": [
+    {
+      "id": "default-slice",
+      "name": "Default slice",
+      "docURL": "...",
+      "version": "sktwi1xtmkfgx8626",
+      "description": "HighLight",
+      "primary": {
+        "title": {
+          "config": {
+            "label": "Title",
+            "placeholder": "This is where it all begins...",
+            "allowTargetBlank": true,
+            "single": "heading2"
+          },
+          "type": "StructuredText"
+        },
+        "headline": {
+          "config": {
+            "label": "",
+            "placeholder": "",
+            "allowTargetBlank": true,
+            "single": "heading3"
+          },
+          "type": "StructuredText"
+        },
+        "link": {
+          "type": "Link",
+          "config": {
+            "label": "",
+            "id": "link",
+            "placeholder": "",
+            "allowTargetBlank": true
+          }
+        },
+        "linkLabel": {
+          "type": "Text",
+          "config": {
+            "label": "",
+            "id": "linkLabel",
+            "placeholder": ""
+          }
+        },
+        "featuredImage": {
+          "config": {
+            "label": "",
+            "constraint": {
+              "width": 727,
+              "height": 402
+            },
+            "thumbnails": []
+          },
+          "type": "Image"
+        }
+      },
+      "items": {}
+    }
+  ]
+}
