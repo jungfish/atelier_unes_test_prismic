@@ -1,6 +1,0 @@
-export { default as BannerSlice } from './BannerSlice'
-export { default as FullWidthImage } from './FullWidthImage'
-export { default as ImageGalery } from './ImageGalery'
-export { default as HighLight } from './HighLight'
-export { default as QuoteSlice } from './QuoteSlice'
-export { default as TextSlice } from './TextSlice'

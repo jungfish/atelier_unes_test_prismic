@@ -1,9 +1,0 @@
-{
-  "apiEndpoint": "https://atelier-unes-test.cdn.prismic.io/api/v2",
-  "libraries": [
-    "@/slices",
-    "vue-essential-slices"
-  ],
-  "_latest": "0.0.44",
-  "storybook": "http://localhost:3003"
-}

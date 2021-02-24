@@ -1,4 +1,4 @@
-# test-prismic
+# nuxt-app-prismic
 
 ## Build Setup
 
